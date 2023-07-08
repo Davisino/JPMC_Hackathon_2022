@@ -1,0 +1,8 @@
+*.ppk
+*.pem
+venv
+*/*/__pycache__
+*/*/*/__pycache__
+.idea/*
+FileContextIndex
+*.pyc
